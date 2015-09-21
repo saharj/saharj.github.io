@@ -1,9 +1,13 @@
+html {
+	font-family: 'EB Garamond', serif;
+}
 body {
 	width: 60%;
 	margin: 0 auto;
 }
 h1 {
 	color: #C51162;
+	font-family: 'Voltaire', sans-serif;
 }
 .proj {
 	margin: 80px 0;
