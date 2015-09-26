@@ -1,11 +1,7 @@
 html {
 	font-family: 'EB Garamond', serif;
 }
-p {
-	font-weight: normal;
-    font-size: 16px;
-    line-height: 20px;
-}
+
 body {
 	width: 60%;
 	margin: 0 auto;
@@ -16,6 +12,9 @@ h1 {
 }
 .proj {
 	margin: 80px 0;
+}
+h3:hover {
+	text-decoration: underline;
 }
 h3 a {
 	color: #F50057;
